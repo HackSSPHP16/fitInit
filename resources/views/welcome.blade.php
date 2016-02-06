@@ -38,7 +38,10 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">
+                    <h1>We are FitInit</h1>
+                    <h2>Rock hard and Really smooth</h2>
+                </div>
             </div>
         </div>
     </body>
